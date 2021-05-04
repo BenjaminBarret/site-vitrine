@@ -25,6 +25,9 @@ const Navigation = () => {
             </NavLink>
           </ul>
         </li>
+        <NavLink to="/contact" exact className="hover" activeClassName="nav-active">
+          <li>Contact</li>
+        </NavLink>
       </ul>
     </div>
   )
