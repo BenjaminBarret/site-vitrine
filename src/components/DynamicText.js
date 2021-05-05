@@ -3,7 +3,7 @@ import React, { useEffect } from 'react';
 const DynamicText = () => {
 
   useEffect(() => {
-    let array = ["simple", "clair", "robuste", "puissant"];
+    let array = ["rapide", "clair", "robuste", "puissant"];
     let wordIndex = 0;
     let letterIndex = 0;
 

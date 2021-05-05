@@ -5,7 +5,7 @@ export const projectsData = [
     date: "Mars 2021",
     languages: ["React-Native", "Expo"],
     infos:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas cumque labore suscipit, pariatur laboriosam autem omnis saepe quisquam enim iste.",
+      "Reactunion est une application mobile «cross-plateform » qui regroupe tous les articles de différents médias de La Réunion.",
     img: "./assets/img/reactunion-screens-presentation.jpeg",
     link: "http://www.google.com",
   },
