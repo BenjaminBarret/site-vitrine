@@ -1,12 +1,12 @@
 export const projectsData = [
   {
     id: 1,
-    title: "Casta",
-    date: "Janvier 2020",
-    languages: ["React", "Php", "Sass"],
+    title: "Reactunion",
+    date: "Mars 2021",
+    languages: ["React-Native", "Expo"],
     infos:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas cumque labore suscipit, pariatur laboriosam autem omnis saepe quisquam enim iste.",
-    img: "./assets/img/projet-2.jpg",
+    img: "./assets/img/reactunion-screens-presentation.jpeg",
     link: "http://www.google.com",
   },
   {
