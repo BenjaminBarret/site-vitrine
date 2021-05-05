@@ -1,6 +1,7 @@
 # Showcase Site Example
 
 This is a showcase site developed from the framework [React](https://fr.reactjs.org/).
+![nout'site](https://user-images.githubusercontent.com/35256595/117223582-08376780-ae1f-11eb-81a5-7a42a5330291.gif)
 
 ## Install dependencies and start project
 
